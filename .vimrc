@@ -4,7 +4,11 @@ Plug 'sheerun/vim-polyglot'
 Plug 'jiangmiao/auto-pairs'
 Plug 'vim-airline/vim-airline'
 Plug 'morhetz/gruvbox'
+Plug 'flazz/vim-colorschemes'
+Plug 'preservim/nerdcommenter'
+Plug 'dracula/vim', { 'as': 'dracula' }
 call plug#end()
+
 
 syntax on
 set tabstop=4
