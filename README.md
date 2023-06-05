@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rick-25
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning data-structures and algorithms
-- 💞️ I’m looking to collaborate on some newbi projects
+- 👀 I’m interested in web and mobile development.
 
 
 <!---
